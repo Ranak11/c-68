@@ -1,2 +1,1 @@
-# c-68
-e
+# PRO-C68-Template
